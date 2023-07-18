@@ -1,0 +1,102 @@
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.Cache
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+E:\SCARVO\Apply Logic To Code\Apps\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csprojResolveAssemblyReference.cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csprojResolveAssemblyReference.cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.Cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csprojResolveAssemblyReference.cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.Cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+E:\SCARVO\Apply Logic To Code\Timer_Implementation\12-4-2018_pm\12-04-2018\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csprojResolveAssemblyReference.cache
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.Cache
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\24-04-2018_pm\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csprojResolveAssemblyReference.cache
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.Cache
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+E:\R I O D  L o g i c\Apply Logic To Code\Timer_Implementation\27-04-2018_pm\B1\A1\LogicBuiderV.0\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.AssemblyReference.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.SuggestedBindingRedirects.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CopyComplete
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+D:\Francis\Interviews\Shell-Global\Git_Repo\Scarvo_Backups-20230718T160205Z-001\Scarvo_Backups\27-04-2018\Final\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe.config
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.exe
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\bin\Debug\LogicBuiderV.0.pdb
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\bin\Debug\MetroFramework.Design.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\bin\Debug\MetroFramework.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\bin\Debug\MetroFramework.Fonts.dll
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.AssemblyReference.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.SuggestedBindingRedirects.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.Properties.Resources.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.GenerateResource.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CoreCompileInputs.cache
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.csproj.CopyComplete
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.exe
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV.0.pdb
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.DataMonitorWindow.resources
+D:\Francis\Interviews\Shell-Global\Git_Repo\LogicBuilder\Builder Studio\LogicBuiderV.0\obj\Debug\LogicBuiderV._0.editorForm.resources
